@@ -1,0 +1,5 @@
+site_name: JAVA文档
+nav:
+- 主页: 'index.md'
+- 关于作者: 'about.md'
+theme: readthedocs
