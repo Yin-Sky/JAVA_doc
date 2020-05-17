@@ -9,5 +9,12 @@ nav:
     - 多线程: Basic/多线程.md
 - 进阶篇: 
     - 框架: Advanced/Spring开发.md
+- 高级篇:
+    - 数据结构与算法: 高级篇/数据结构与算法/简单的数据结构.md
+- 架构篇:
+    - 高并发: 架构篇/分布式/分布式理论.md
+- 扩展篇:
+    - 人工智能: 扩展篇/人工智能/人工智能初探.md
+
 - 关于作者: about authors.md
 theme: readthedocs
