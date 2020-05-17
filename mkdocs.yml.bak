@@ -2,12 +2,12 @@ site_name: JAVA成神之路
 nav:
 - 主页: index.md
 - 基础篇:
-    - JAVA基础: Basic/基础.md
+    - 基础知识: Basic/基础.md
     - 面向对象: Basic/面向对象.md
     - 异常处理: Basic/异常处理.md
     - IO: Basic/IO.md
     - 多线程: Basic/多线程.md
-- 进阶篇: 
+- 进阶篇(框架): 
     - 框架: 进阶篇/Spring开发.md
 - 高级篇:
     - 数据结构与算法: 高级篇/数据结构与算法.md
@@ -20,5 +20,6 @@ nav:
     - 深度学习: 扩展篇/深度学习.md
     - 强化学习: 扩展篇/强化学习.md
     - 云计算: 扩展篇/云计算.md
+
 - 关于作者: about authors.md
 theme: readthedocs
