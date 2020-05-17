@@ -202,8 +202,6 @@ class Solution {
         return res.toString();
     }
 }
-
-
 ```
 
  参考链接：https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/solution/mian-shi-ti-05-ti-huan-kong-ge-ji-jian-qing-xi-tu-/
