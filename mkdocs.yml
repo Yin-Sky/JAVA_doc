@@ -6,6 +6,6 @@ nav:
 - 异常处理: '异常处理.md'
 - IO: 'IO.md'
 - 多线程: '多线程.md'
-- 关于作者: 'about authors.md'
 - Spring开发: 'Spring开发.md'
+- 关于作者: 'about authors.md'
 theme: readthedocs
