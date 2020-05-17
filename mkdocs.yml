@@ -7,10 +7,5 @@ nav:
     - 异常处理: Basic/异常处理.md
     - IO: Basic/IO.md
     - 多线程: Basic/多线程.md
-- 进阶篇:
-- 高级篇:
-    - Spring开发: Master/Spring开发.md
-- 架构篇:
-- 扩展篇:
 - 关于作者: about authors.md
 theme: readthedocs
