@@ -5,5 +5,6 @@ nav:
 - 面向对象: '面向对象.md'
 - 异常处理: '异常处理.md'
 - IO: 'IO.md'
+- 多线程: '多线程.md'
 - 关于作者: 'about authors.md'
 theme: readthedocs
