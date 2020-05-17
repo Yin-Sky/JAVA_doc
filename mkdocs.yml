@@ -2,6 +2,11 @@ site_name: JAVA工程师变强之路
 nav:
 - 主页: index.md
 - JAVA程序设计:
+    - JAVA基础: user-guide/基础.md
+    - 面向对象: user-guide/面向对象.md
+    - 异常处理: user-guide/异常处理.md
+    - IO: user-guide/IO.md
+    - 多线程: user-guide/多线程.md
 - Spring开发: Spring开发.md
 - 关于作者: about authors.md
 theme: readthedocs
