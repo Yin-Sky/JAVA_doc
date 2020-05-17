@@ -1,6 +1,8 @@
-**贡献名单**
+# 贡献
 
-[Yin-Sky](https://github.com/Yin-Sky)
+下面是我们的贡献者名单(更多信息请访问[此页](https://github.com/smtzjl/JAVA_doc))。
 
-[smtjzl](https://github.com/smtzjl)
+- JinYin Zhu ([Yin-Sky](https://github.com/Yin-Sky))
+
+- Long Ji ([smtjzl](https://github.com/smtzjl))
 
