@@ -8,7 +8,7 @@ nav:
     - IO: Basic/IO.md
     - 多线程: Basic/多线程.md
 - 进阶篇: 
-    - 框架: Advanced/Spring开发.md
+    - 框架: 进阶篇/Spring开发.md
 - 高级篇:
     - 数据结构与算法: 高级篇/数据结构与算法.md
     - 数据结构与算法: 高级篇/编译原理.md
