@@ -24,3 +24,13 @@ nav:
 
 - 关于作者: about authors.md
 theme: readthedocs
+
+markdown_extensions:
+  - extra
+  - tables
+  - toc
+  - fenced_code
+  - smarty
+  - mdx_math:
+      enable_dollar_delimiter: True
+  - footnotes
