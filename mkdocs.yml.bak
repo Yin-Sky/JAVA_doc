@@ -14,6 +14,7 @@ nav:
     - 枚举类和注解: 进阶篇/枚举类和注解.md
 - 进阶篇(框架):
     - Spring: 进阶篇(框架)/Spring.md
+	- SpringBoot: 进阶篇(框架)/SpringBoot.md
 - 进阶篇(新特性):
     - Java8的其它新特性: 进阶篇(新特性)/Java8的其它新特性.md
 - 高级篇:
