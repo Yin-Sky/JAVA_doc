@@ -26,8 +26,6 @@
 
 ## 3、环境准备
 
-http://www.gulixueyuan.com/ 谷粒学院
-
 环境约束
 
 –jdk1.8：Spring Boot 推荐jdk1.7及以上；java version "1.8.0_112"
@@ -37,8 +35,6 @@ http://www.gulixueyuan.com/ 谷粒学院
 –IntelliJIDEA2017：IntelliJ IDEA 2017.2.2 x64、STS
 
 –SpringBoot 1.5.9.RELEASE：1.5.9；
-
-统一环境；
 
 
 
@@ -276,17 +272,13 @@ public @interface EnableAutoConfiguration {
 
 
 
-==Spring Boot在启动的时候从类路径下的META-INF/spring.factories中获取EnableAutoConfiguration指定的值，将这些值作为自动配置类导入到容器中，自动配置类就生效，帮我们进行自动配置工作；==以前我们需要自己配置的东西，自动配置类都帮我们；
+​		Spring Boot在启动的时候从类路径下的META-INF/spring.factories中获取EnableAutoConfiguration指定的值，将这些值作为自动配置类导入到容器中，自动配置类就生效，帮我们进行自动配置工作；==以前我们需要自己配置的东西，自动配置类都帮我们；
 
 J2EE的整体整合解决方案和自动配置都在spring-boot-autoconfigure-1.5.9.RELEASE.jar；
 
 
 
 ​		
-
-==Spring注解版（谷粒学院）==
-
-
 
 ## 6、使用Spring Initializer快速创建Spring Boot项目
 
@@ -820,7 +812,7 @@ java -jar spring-boot-02-config-02-0.0.1-SNAPSHOT.jar --server.port=8087  --serv
 
     ```
 
-    ​
+    
 
 **==将 类路径下  META-INF/spring.factories 里面配置的所有EnableAutoConfiguration的值加入到了容器中；==**
 
@@ -1718,7 +1710,7 @@ Spring Boot 自动配置好了SpringMVC
 
 - Custom `Favicon` support (see below).  favicon.ico
 
-  ​
+  
 
 - 自动注册了 of `Converter`, `GenericConverter`, `Formatter` beans.
 
@@ -1743,7 +1735,7 @@ Spring Boot 自动配置好了SpringMVC
 
     ==自己给容器中添加HttpMessageConverter，只需要将自己的组件注册容器中（@Bean,@Component）==
 
-    ​
+    
 
 - Automatic registration of `MessageCodesResolver` (see below).定义错误代码生成规则
 
